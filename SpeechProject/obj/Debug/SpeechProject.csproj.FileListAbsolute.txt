@@ -1,0 +1,11 @@
+E:\Everything..2\Object-Oriented Programming\Examples c#\Ex4\SpeechProject\SpeechProject\obj\Debug\SpeechProject.csproj.AssemblyReference.cache
+E:\Everything..2\Object-Oriented Programming\Examples c#\Ex4\SpeechProject\SpeechProject\obj\Debug\SpeechProject.Form1.resources
+E:\Everything..2\Object-Oriented Programming\Examples c#\Ex4\SpeechProject\SpeechProject\obj\Debug\SpeechProject.Properties.Resources.resources
+E:\Everything..2\Object-Oriented Programming\Examples c#\Ex4\SpeechProject\SpeechProject\obj\Debug\SpeechProject.csproj.GenerateResource.cache
+E:\Everything..2\Object-Oriented Programming\Examples c#\Ex4\SpeechProject\SpeechProject\obj\Debug\SpeechProject.csproj.CoreCompileInputs.cache
+E:\Everything..2\Object-Oriented Programming\Examples c#\Ex4\SpeechProject\SpeechProject\bin\Debug\SpeechProject.exe.config
+E:\Everything..2\Object-Oriented Programming\Examples c#\Ex4\SpeechProject\SpeechProject\bin\Debug\SpeechProject.exe
+E:\Everything..2\Object-Oriented Programming\Examples c#\Ex4\SpeechProject\SpeechProject\bin\Debug\SpeechProject.pdb
+E:\Everything..2\Object-Oriented Programming\Examples c#\Ex4\SpeechProject\SpeechProject\obj\Debug\SpeechProject.exe
+E:\Everything..2\Object-Oriented Programming\Examples c#\Ex4\SpeechProject\SpeechProject\obj\Debug\SpeechProject.pdb
+E:\Everything..2\Object-Oriented Programming\Examples c#\Ex4\SpeechProject\SpeechProject\obj\Debug\SpeechProject.exe.config
